@@ -2,10 +2,10 @@
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
-## 🚀 How to use
+## 🚀 To start development mode:
 
 ```sh
-npx create-expo-app -e with-router
+npm start
 ```
 
 ## 📝 Notes
